@@ -1,6 +1,6 @@
 ﻿# Lecture Machine-Learning
+# Lecture Source for ML Practice
 
-머신러닝 강의 관련 소
 - git init
 - git add .\model_naivebayes.ipynb
 - git commit -m "naivebayes model commit"
